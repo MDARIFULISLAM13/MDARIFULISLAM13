@@ -46,6 +46,3 @@ I am experienced in backend development using **Node.js**, **Express.js**, and *
 - LinkedIn: [Md. Ariful Islam](https://www.linkedin.com/in/arif100/)  
 - Website: [ariful.onrender.com](https://ariful.onrender.com/)
 
----
-
-Thanks for stopping by! 👋
